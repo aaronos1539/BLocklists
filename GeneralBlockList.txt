@@ -1,1 +1,26 @@
 #0.0.0.0 device-metrics-us.amazon.com
+## Facebook Tracking
+0.0.0.0 graph.facebook.com
+0.0.0.0 star.c10r.facebook.com
+0.0.0.0 connect.facebook.net
+0.0.0.0 graph.instagram.com
+## Bing
+0.0.0.0 strict.bing.com
+## Ads/Tracking
+0.0.0.0 (\.|^)stackadapt\.com$
+0.0.0.0 (\.|^)yumimobi\.com$
+0.0.0.0 (\.|^)iotcplatform\.com$
+0.0.0.0 (\.|^)districtm\.io$
+0.0.0.0 (\.|^)advangelists\.com$
+0.0.0.0 (\.|^)startappelb\.com$
+0.0.0.0 (\.|^)jampp\.com$
+0.0.0.0 (\.|^)nexage\.com$
+0.0.0.0 (\.|^)aarki\.net$
+
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
+0.0.0.0
