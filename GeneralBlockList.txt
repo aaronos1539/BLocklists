@@ -1,4 +1,3 @@
-#0.0.0.0 device-metrics-us.amazon.com
 ## Facebook Tracking
 0.0.0.0 graph.facebook.com
 0.0.0.0 star.c10r.facebook.com
@@ -6,7 +5,11 @@
 0.0.0.0 graph.instagram.com
 ## Bing
 0.0.0.0 strict.bing.com
+## Twitter
+0.0.0.0 syndication.twitter.com
 ## Ads/Tracking
+0.0.0.0 mfx.mobilefuse.com
+0.0.0.0 da.chartboost.com
 0.0.0.0 (\.|^)stackadapt\.com$
 0.0.0.0 (\.|^)yumimobi\.com$
 0.0.0.0 (\.|^)iotcplatform\.com$
@@ -16,11 +19,7 @@
 0.0.0.0 (\.|^)jampp\.com$
 0.0.0.0 (\.|^)nexage\.com$
 0.0.0.0 (\.|^)aarki\.net$
-
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
-0.0.0.0
+0.0.0.0 (\.|^)aaxads\.com$
+0.0.0.0 (\.|^)aaxdetect\.com$
+0.0.0.0 (\.|^)summerhamster\.com$
+0.0.0.0 (\.|^)s-onetag\.com$
