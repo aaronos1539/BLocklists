@@ -10,6 +10,7 @@
 ## Ads/Tracking
 0.0.0.0 mfx.mobilefuse.com
 0.0.0.0 da.chartboost.com
+0.0.0.0 uop.umeng.com
 0.0.0.0 (\.|^)stackadapt\.com$
 0.0.0.0 (\.|^)yumimobi\.com$
 0.0.0.0 (\.|^)iotcplatform\.com$
