@@ -9,18 +9,24 @@
 ## Twitter
 0.0.0.0 syndication.twitter.com
 ## Ads/Tracking
+## C
 0.0.0.0 da.chartboost.com
+## J
 0.0.0.0 network.jumprampgames.com
+## L
 0.0.0.0 a8-tracking.lucktastic.com
 0.0.0.0 cdn.lucktastic.com
+## M
 0.0.0.0 mfx.mobilefuse.com
 0.0.0.0 mfx-us-east.mobilefuse.com
+## S
 0.0.0.0 creatives.sascdn.com
-
 0.0.0.0 a.smrpm.com
 0.0.0.0 p.smrpm.com
 0.0.0.0 s-10.smrpm.com
 0.0.0.0 ads.smrtbid.com
-
+## T
+tk0x1.com
+## U
 0.0.0.0 gstatic.ubimo.com
 0.0.0.0 uop.umeng.com
