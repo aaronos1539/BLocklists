@@ -1,19 +1,19 @@
+## Bing
+0.0.0.0 strict.bing.com
 ## Facebook Tracking
 0.0.0.0 graph.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 connect.facebook.net
 0.0.0.0 graph.instagram.com
-## Bing
-0.0.0.0 strict.bing.com
 ## Twitter
 0.0.0.0 syndication.twitter.com
 ## Ads/Tracking
-0.0.0.0 mfx.mobilefuse.com
 0.0.0.0 da.chartboost.com
-0.0.0.0 uop.umeng.com
-0.0.0.0 mfx-us-east.mobilefuse.com
+0.0.0.0 network.jumprampgames.com
 0.0.0.0 a8-tracking.lucktastic.com
 0.0.0.0 cdn.lucktastic.com
-0.0.0.0 network.jumprampgames.com
+0.0.0.0 mfx.mobilefuse.com
+0.0.0.0 mfx-us-east.mobilefuse.com
 0.0.0.0 creatives.sascdn.com
 0.0.0.0 gstatic.ubimo.com
+0.0.0.0 uop.umeng.com
