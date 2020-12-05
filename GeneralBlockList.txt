@@ -5,6 +5,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 web.facebook.com
+0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 graph.instagram.com
 ## Twitter
 0.0.0.0 syndication.twitter.com
@@ -26,7 +27,7 @@
 0.0.0.0 s-10.smrpm.com
 0.0.0.0 ads.smrtbid.com
 ## T
-tk0x1.com
+0.0.0.0 tk0x1.com
 ## U
 0.0.0.0 gstatic.ubimo.com
 0.0.0.0 uop.umeng.com
