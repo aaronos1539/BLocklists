@@ -12,6 +12,8 @@
 ## Ads/Tracking
 ## C
 0.0.0.0 da.chartboost.com
+## H
+0.0.0.0 mobilityware.helpshift.com
 ## J
 0.0.0.0 network.jumprampgames.com
 ## L
@@ -20,6 +22,7 @@
 ## M
 0.0.0.0 mfx.mobilefuse.com
 0.0.0.0 mfx-us-east.mobilefuse.com
+0.0.0.0 pyramid.prod.cardsuite.ext.mobilityware.com
 0.0.0.0 api.prod.mwx.ext.mobilityware.com
 0.0.0.0 noanswer.mwx.mobilityware.com
 ## S
