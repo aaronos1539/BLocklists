@@ -1,9 +1,10 @@
 ## Bing
 0.0.0.0 strict.bing.com
 ## Facebook Tracking
+0.0.0.0 connect.facebook.net
 0.0.0.0 graph.facebook.com
 0.0.0.0 star.c10r.facebook.com
-0.0.0.0 connect.facebook.net
+0.0.0.0 web.facebook.com
 0.0.0.0 graph.instagram.com
 ## Twitter
 0.0.0.0 syndication.twitter.com
