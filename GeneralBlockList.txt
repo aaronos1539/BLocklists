@@ -1,8 +1,10 @@
 ####################################################### B
 ## Bing
 0.0.0.0 strict.bing.com
+0.0.0.0 dm16-alisg.byteoversea.com
 ####################################################### C
 0.0.0.0 da.chartboost.com
+0.0.0.0 htlb.casalemedia.com
 ####################################################### F
 ## Facebook
 0.0.0.0 connect.facebook.net
@@ -31,6 +33,8 @@
 0.0.0.0 identity.prod.platform.ext.mobilityware.com
 0.0.0.0 api.prod.mwx.ext.mobilityware.com
 0.0.0.0 noanswer.mwx.mobilityware.com
+####################################################### N
+0.0.0.0 occ-0-2219-2218.1.nflxso.net
 ####################################################### P
 0.0.0.0 backend.pubnative.net
 ####################################################### S
