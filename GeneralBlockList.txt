@@ -26,9 +26,13 @@
 0.0.0.0 mfx-us-east.mobilefuse.com
 ## Mobilityware
 0.0.0.0 mobilityware.helpshift.com
+0.0.0.0 spider.prod.cardsuite.ext.mobilityware.com
 0.0.0.0 pyramid.prod.cardsuite.ext.mobilityware.com
+0.0.0.0 identity.prod.platform.ext.mobilityware.com
 0.0.0.0 api.prod.mwx.ext.mobilityware.com
 0.0.0.0 noanswer.mwx.mobilityware.com
+####################################################### P
+0.0.0.0 backend.pubnative.net
 ####################################################### S
 0.0.0.0 creatives.sascdn.com
 0.0.0.0 a.smrpm.com
