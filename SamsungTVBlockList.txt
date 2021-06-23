@@ -17,3 +17,4 @@
 0.0.0.0 otnprd11.samsungcloudsolution.net
 0.0.0.0 sas.samsungcloudsolution.com
 0.0.0.0 www.samsungotn.net
+0.0.0.0 ib.huluim.com
