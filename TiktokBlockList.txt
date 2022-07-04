@@ -7,6 +7,7 @@ hotapi16-platform-useast5.us.tiktokv.com
 log16-applog-useast5.us.tiktokv.com
 mon16-platform-useast5.us.tiktokv.com
 mssdk16-platform-useast5.us.tiktokv.com
+p16-sign.tiktokcdn-us.com
 p16-sign-va.tiktokcdn.com
 pull-a16-tt01.fcdn.us.tiktokv.com
 pull-a16-tt01.fcdn.us.tiktokv.com 
