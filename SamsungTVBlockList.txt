@@ -1,2 +1,3 @@
 ad-events.flashtalking.com
 tpsc-video.doubleverify.com
+vid-io-cle.springserve.com
