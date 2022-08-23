@@ -17,3 +17,4 @@ prod-ms.applovin.com.home.lan
 s.info.applovin.com
 sudokugp.zendesk.com 
 x.videobyte.com
+us-east-1.ingaa.xyz
