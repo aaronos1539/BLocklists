@@ -1,5 +1,6 @@
 ab.playgendary.com
 analytics-tcp.mintegral.net
+api.bytebrew.io
 api.playgendary.com
 api.revenuecat.com
 auction-banner.unityads.unity3d.com
