@@ -16,6 +16,6 @@ ms.applvn.com.home.lan
 outcome-ssp.supersonicads.com.home.lan
 prod-ms.applovin.com.home.lan
 s.info.applovin.com
-sudokugp.zendesk.com 
+sudokugp.zendesk.com
 x.videobyte.com
 us-east-1.ingaa.xyz
