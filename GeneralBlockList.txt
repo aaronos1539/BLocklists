@@ -1,4 +1,5 @@
 ab.playgendary.com
+adx.ads.vungle.com
 analytics-tcp.mintegral.net
 api.bytebrew.io
 api.playgendary.com
@@ -6,6 +7,8 @@ api.revenuecat.com
 auction-banner.unityads.unity3d.com
 auction-load.unityads.unity3d.com.home.lan
 cdn-f.adsmoloco.com.home.lan
+config.ads.vungle.com
+events.ads.vungle.com
 game-service.playgendary.com
 game-users-storage.playgendary.com
 game-users-storage.playgendary.com.home.lan
