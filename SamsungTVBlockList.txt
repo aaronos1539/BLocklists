@@ -1,4 +1,5 @@
 ad-events.flashtalking.com
+images.sr.roku.com
 spectrum.s3.amazonaws.com
 tpsc-video.doubleverify.com
 vid-io-cle.springserve.com
