@@ -12,7 +12,6 @@ events.ads.vungle.com
 game-service.playgendary.com
 game-users-storage.playgendary.com
 game-users-storage.playgendary.com.home.lan
-graph.facebook.com
 img.applovin.com.home.lan
 launches.appsflyer.com.home.lan
 ms.applovin.com.home.lan
