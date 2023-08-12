@@ -1,4 +1,5 @@
 ad-events.flashtalking.com
+firehose.us-east-1.amazonaws.com
 images.sr.roku.com
 spectrum.s3.amazonaws.com
 tpsc-video.doubleverify.com
