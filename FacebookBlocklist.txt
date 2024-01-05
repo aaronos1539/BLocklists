@@ -1,1 +1,3 @@
 graph.facebook.com
+star.c10r.facebook.com
+star.fallback.c10r.facebook.com
