@@ -1,5 +1,7 @@
 ad-events.flashtalking.com
+avsxappcaptiveportal.com
 firehose.us-east-1.amazonaws.com
+http-intake.logs.datadoghq.eu
 images.sr.roku.com
 spectrum.s3.amazonaws.com
 tpsc-video.doubleverify.com
