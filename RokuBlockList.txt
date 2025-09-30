@@ -1,2 +1,4 @@
 benjamin.logs.roku.com
+brewster.logs.roku.com
 identity.ads.roku.com
+scribe.logs.roku.com
