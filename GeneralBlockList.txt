@@ -12,8 +12,10 @@ api.revenuecat.com
 auction-banner.unityads.unity3d.com
 auction-load.unityads.unity3d.com.home.lan
 awards.easybrain.com
+bayergroup.sharepoint.com
 bib.easybrain.com
 bm-ads.io
+bpm-pixel.pointmediatracker.com
 cdn-f.adsmoloco.com.home.lan
 cdn.mobilefuse.com
 cloudflare-content.easybrain.com
@@ -44,8 +46,10 @@ scripts.chitika.net
 sjc-usadmm.dotomi.com
 ssdk-sg.pangle.io
 storevalidator.easybrain.com
+streams.adobeprimetime.com
 sudokugp.zendesk.com
 t97247.adserverevent.com
+track.transmit.live
 track.tubrtb.com
 track.yourrtb.com
 tracker-dot.ortb.net
